@@ -17,9 +17,8 @@ if [[ ${yesno:0:1} == "y" ]]; then
 	sudo cp nixos/* /etc/nixos/
 	echo "done."
 	echo "adding update-dotfiles to ~/.local/bin..."
-	mv update.sh update-dotfiles
 	chmod +x update-dotfiles
-	mv update-dotfiles ~/.local/bin
+	cp update-dotfiles ~/.local/bin
 	echo "done."
 else
 	echo "no worries"

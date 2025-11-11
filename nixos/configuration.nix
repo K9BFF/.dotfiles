@@ -146,6 +146,7 @@
      swappy
      slurp
      hyprshot
+     toilet
 
      # Compatibility
      wine
@@ -168,6 +169,7 @@
      pkgs.discord
      pkgs.discordo
      weechat
+     signal-desktop
     
      # Theming
      nwg-look

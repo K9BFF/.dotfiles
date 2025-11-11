@@ -1,0 +1,16 @@
+[urgency_low]
+	background = "#282828"
+	foreground = "#CCCCCC"
+	timeout = 5
+
+[urgency_normal]
+	background = "#282828"
+	foreground = "#FFFFFF"
+	timeout = 10
+	override_pause_level = 30
+
+[urgency_critical]
+	background = "#282828"
+	foreground = "#FFFFFF"
+	frame_color = "#CC241D"
+	override_pause_level = 60

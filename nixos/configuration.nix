@@ -211,6 +211,7 @@
      vscode
      pkgs.jetbrains.pycharm-community
      electron
+     nodejs
 
      # Security
      pkgs.kdePackages.kleopatra

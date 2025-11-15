@@ -210,6 +210,7 @@
      # Development
      vscode
      pkgs.jetbrains.pycharm-community
+     electron
 
      # Security
      pkgs.kdePackages.kleopatra

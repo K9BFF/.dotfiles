@@ -212,6 +212,7 @@
      pkgs.jetbrains.pycharm-community
      electron
      nodejs
+     chromium
 
      # Security
      pkgs.kdePackages.kleopatra

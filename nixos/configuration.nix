@@ -210,7 +210,6 @@
      # Development
      vscode
      pkgs.jetbrains.pycharm-community
-     wolfram-engine
 
      # Security
      pkgs.kdePackages.kleopatra

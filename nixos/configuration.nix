@@ -217,6 +217,7 @@
      # Security
      pkgs.kdePackages.kleopatra
      gnupg
+     riseup-vpn
   ];
   
 

@@ -148,6 +148,9 @@
      hyprshot
      toilet
 
+     # Radio
+     wsjtx
+
      # Compatibility
      wine
      winetricks

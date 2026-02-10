@@ -184,7 +184,6 @@
      # Network
      filezilla
      tigervnc
-     turbovnc
      
      # Fonts
      line-awesome

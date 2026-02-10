@@ -184,6 +184,7 @@
      # Network
      filezilla
      tigervnc
+     realvnc-vnc-viewer
      
      # Fonts
      line-awesome

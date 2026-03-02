@@ -216,6 +216,7 @@
      electron
      nodejs
      chromium
+     dig
 
      # Security
      pkgs.kdePackages.kleopatra

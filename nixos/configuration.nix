@@ -147,6 +147,7 @@
      slurp
      hyprshot
      toilet
+     ntfs3g
 
      # Radio
      wsjtx

@@ -148,6 +148,7 @@
      hyprshot
      toilet
      ntfs3g
+     gnome-disks
 
      # Radio
      wsjtx

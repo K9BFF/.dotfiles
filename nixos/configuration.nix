@@ -148,7 +148,7 @@
      hyprshot
      toilet
      ntfs3g
-     gnome-disks
+     gnome-disk-utility
 
      # Radio
      wsjtx

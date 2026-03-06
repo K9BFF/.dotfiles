@@ -149,7 +149,7 @@
      toilet
      ntfs3g
      gnome-disk-utility
-     xfce
+     gnome-shell
 
      # Radio
      wsjtx
